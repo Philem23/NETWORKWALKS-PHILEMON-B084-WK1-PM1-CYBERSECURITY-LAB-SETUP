@@ -60,7 +60,7 @@ Screenshots demonstrating the different setup sections:
 3. Internet connectivity test.
 4. Shared folder configuration.
 
-## 6. Learning Outcomes
+## 5. Learning Outcomes
 
 This project provided practical exposure to:
 
@@ -71,7 +71,7 @@ This project provided practical exposure to:
 - Basic connectivity verification.
 - Establishing a controlled cybersecurity testing environment.
 
-## 7. Conclusion
+## 6. Conclusion
 
 The Week 1 project provided a foundation for subsequent practical cybersecurity exercises by establishing a virtual laboratory environment using VirtualBox and Kali Linux.
 
