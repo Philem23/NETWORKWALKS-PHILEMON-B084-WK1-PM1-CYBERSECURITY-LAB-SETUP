@@ -58,7 +58,6 @@ Screenshots demonstrating the different setup sections:
 1. VirtualBox NAT Network configuration.
 2. Kali Linux virtual machine settings.
 3. Internet connectivity test.
-4. Shared folder configuration.
 
 ## 5. Learning Outcomes
 
